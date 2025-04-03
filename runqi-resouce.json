@@ -1,0 +1,14 @@
+{
+  "file.upload.temp" : "C:/runqi/ossTemp/",
+
+  "arcsoftapi.appIdWin" : "Gh8QD8PrJKipPpLy5VJryNv3LwBWnr3hY8P3kNtcgbLT",
+  "arcsoftapi.sdkKeyWin" : "93i98FM9j5DeXy8rJFvDdabxtvtjDAT284oGNx4Z6AgJ",
+  "arcsoftapi.appIdLinux" : "8kD9684EG6FDrSBMdiLJe4cRVujkRnEz73rxczkGezTb",
+  "arcsoftapi.sdkKeyLinux" : "9eidujy2KZeiZnYGyLmT1GgEAQpqSvfxma2KYQ5xtrYj",
+  "arcsoftapi.system" : "WIN64",
+  "arcsoftapi.address" : "C:/runqi/face/win64",
+
+  "runqi.indexMonitor.url" : "http://116.205.191.126:9001",
+  "runqi.indexMonitor.realTimeValueUrl" : "/prod-api/guid/query/getRealTimeValue",
+  "runqi.indexMonitor.rawValueByRangeUrl" : "/prod-api/guid/query/getRawValueByRange",
+}
