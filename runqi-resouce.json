@@ -19,4 +19,14 @@
   "runqi.indexMonitor.realTimeValueUrl" : "/prod-api/guid/query/getRealTimeValue",
   // 获取历史值数据接口
   "runqi.indexMonitor.rawValueByRangeUrl" : "/prod-api/guid/query/getRawValueByRange",
+
+  // 人员定位API
+  "personPositionApi.api_base_url" : "http://8.142.139.231/txzk",
+  "personPositionApi.personnel_positioning_auth_login" : "PERSONNEL_POSITIONING::AUTH_LOGIN",
+
+  // WVP API
+  "wvpApi.wvp_api_url" : "http://127.0.0.1:8080/debug",
+  "wvpApi.wvp_api_username" : "admin",
+  "wvpApi.wvp_api_password" : "21232f297a57a5a743894a0e4a801fc3",
+  "wvpApi.wvp_auth_login" : "WVP::AUTH_LOGIN"
 }
